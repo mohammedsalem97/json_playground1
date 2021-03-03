@@ -6,7 +6,7 @@
       "food": "Meat",
       "loc": "Africa",
       "desc": "The king of the forest",
-      "img": "http://bit.ly/3e0K1iO"
+      "img": "https://bit.ly/3b7RuuB"
     },
     {
       "id": 2,
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "name": "Cjeeta",
+      "name": "Cheeta",
       "food": "Meat",
       "loc": "Africa",
       "desc": "The fastest animal on the planet",
@@ -50,11 +50,11 @@
     },
     {
       "id": 7,
-      "name": "Elephant",
-      "food": "Grass",
-      "loc": "Africa",
-      "desc": "The heaviest animal on the planet",
-      "img": "https://bit.ly/2OdVzEC"
+      "name": "Blue Whale",
+      "food": "Fishes",
+      "loc": "Ocean",
+      "desc": "The heaviest animal in the sea",
+      "img": "https://bit.ly/2PpHswp"
     },
     {
       "id": 8,
