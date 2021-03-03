@@ -7,6 +7,86 @@
       "loc": "Africa",
       "desc": "The king of the forest",
       "img": "http://bit.ly/3e0K1iO"
+    },
+    {
+      "id": 2,
+      "name": "Tiger",
+      "food": "Meat",
+      "loc": "Asia",
+      "desc": "The most giant killer in the forest",
+      "img": "https://bit.ly/3kHBEKA"
+    },
+    {
+      "id": 3,
+      "name": "Monkey",
+      "food": "Fruits",
+      "loc": "Africa",
+      "desc": "It plays and jums between trees",
+      "img": "https://bit.ly/3823rjp"
+    },
+    {
+      "id": 4,
+      "name": "Giraff",
+      "food": "Leaves",
+      "loc": "Africa",
+      "desc": "The tallest animal on the planet",
+      "img": "https://bit.ly/30ae3sd"
+    },
+    {
+      "id": 5,
+      "name": "Cjeeta",
+      "food": "Meat",
+      "loc": "Africa",
+      "desc": "The fastest animal on the planet",
+      "img": "https://bit.ly/2NVYmCB"
+    },
+    {
+      "id": 6,
+      "name": "Elephant",
+      "food": "Grass",
+      "loc": "Africa",
+      "desc": "The heaviest animal on the planet",
+      "img": "https://bit.ly/2OdVzEC"
+    },
+    {
+      "id": 7,
+      "name": "Elephant",
+      "food": "Grass",
+      "loc": "Africa",
+      "desc": "The heaviest animal on the planet",
+      "img": "https://bit.ly/2OdVzEC"
+    },
+    {
+      "id": 8,
+      "name": "Zebra",
+      "food": "Grass",
+      "loc": "Africa",
+      "desc": "Black and white lines cover its skin",
+      "img": "https://cnn.it/2Pu7AGG"
+    },
+    {
+      "id": 9,
+      "name": "Eagle",
+      "food": "Meat",
+      "loc": "America",
+      "desc": "The king of the sky",
+      "img": "https://bit.ly/383fc9C"
+    },
+    {
+      "id": 10,
+      "name": "Rabbit",
+      "food": "Grass",
+      "loc": "Africa",
+      "desc": "A cute an fast animal",
+      "img": "https://bit.ly/3bSpt9A"
+    },
+    {
+      "id": 11,
+      "name": "Kangaroo",
+      "food": "Grass",
+      "loc": "Australia",
+      "desc": "Animal tha walks on its rear legs only",
+      "img": "https://bit.ly/2OdXEQW"
     }
   ],
   "profile": {
