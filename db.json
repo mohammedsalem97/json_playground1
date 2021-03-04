@@ -2,7 +2,7 @@
   "animals": [
     {
       "id": 1,
-      "name": "lion",
+      "name": "Lion",
       "food": "Meat",
       "loc": "Africa",
       "desc": "The king of the forest",
