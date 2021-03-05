@@ -89,7 +89,10 @@
       "img": "https://bit.ly/2OdXEQW"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "profile": [
+    {
+    "name": "Mohammed",
+    "age": "22"
   }
+  ]
 }
